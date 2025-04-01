@@ -87,6 +87,7 @@ Like the ranged weapons, their damage numbers, ranges and attack rates are chang
 - There are a number of UI bugs due to the nature of the game
   - After completing the tutorial, the player's client freezes once they return to main menu.
   - Occasionally the main menu UI will duplicate after you win or lose a game.
+    
 These issues were resolved by making the game restart itself after finishing the tutorial or the round.
     
 ## Developers 🛠️
