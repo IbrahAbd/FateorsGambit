@@ -1,7 +1,6 @@
 
 # Fateor's Gambit
 
-
 <img src="https://github.com/IbrahAbd/Flappy-Bird-in-PyGame/blob/main/flappy-bird-assets-master/finalFG.png" width="1000" height = "500"/>
 
 <div align="center">
@@ -57,7 +56,7 @@ Like the ranged weapons, their damage numbers, ranges and attack rates are chang
     - FusionBootstrapDebugGUIS was created for the settings menu.
     - FusionBootstrap was modified to restart after a game is completed.
 
-## Assets used for maps 🗺️ , player models 🕹️ and weapons 🗡️
+## Assets used for maps 🗺️ , player models 🕹️, weapons 🗡️ and music 🎵
 - https://assetstore.unity.com/packages/3d/props/3d-low-poly-tools-weapons-containers-274127
 - https://assetstore.unity.com/packages/p/character-effects-shaders-304307
 - https://assetstore.unity.com/packages/3d/props/weapons/dagger-69460
@@ -78,6 +77,11 @@ Like the ranged weapons, their damage numbers, ranges and attack rates are chang
 - https://sketchfab.com/3d-models/neon-signs-307e887d740649f88fbc77b061f3a742
 - https://sketchfab.com/3d-models/urban-enviroment-2e5cb092ff2948bc9c500b73aa5c7829
 - https://syntystore.com/products/polygon-particle-fx-pack (Purchased from Humble Bundle for $1)
+- https://freesound.org/people/SoundBiterSFX/sounds/730466/
+- https://pixabay.com/music/video-games-gravedigger-spooky-graveyard-dance-halloween-whistling-electronic-148256/
+- https://pixabay.com/music/beats-hype-trailer-background-advertising-showreel-289872/
+- https://pixabay.com/music/upbeat-cyberpunk-music-277931/
+- https://pixabay.com/music/upbeat-forward-312979/
   
 ## Known Bugs 🐞
 - There are a number of UI bugs due to the nature of the game
