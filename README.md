@@ -9,7 +9,7 @@ A high-stakes 1v1 FPS Arena Card Battler where every round is unpredictable.
 
 Step into the fight across three distinct battlegrounds (Gambit Grounds, Gambit Runner 3099, and Fateor’s Foyer) each featuring unique, theme-driven weaponry that changes the way you play.  Strategize, adapt, and outgun your opponent using a card-based system that ensures no two matches ever feel the same.
 
-Will you leave it to fate or take control with a gambit?
+ ⚔️ Will you leave it to fate or take control with a gambit? ⚔️
 </div>
 
 ## How To Run
@@ -33,7 +33,7 @@ The ranged weapons were provided by the template, with their damage numbers, ran
 
 All the melee weapons were taken from free assets provided on the unity asset store with their functionality being a modified implementation of the "WeaponBeam.cs" script. Like the ranged weapons, their damage numbers, ranges and attack rates to provide variety between different weapons.
 
-## Scripts
+## Scripts 📜
 
 - In the Scripts folder, the following sub-folders were provided by the template and left largely unchanged :
     - Extensions
@@ -58,8 +58,11 @@ All the melee weapons were taken from free assets provided on the unity asset st
     - FusionBootstrap was modified to return to the main menu after a game is completed.
 
 
-
-## Developers
+## Known Bugs 🐞
+- After completing the tutorial, both clients freeze once the countdown completes.
+- Occasionally the main menu UI will duplicate. Wait a few seconds or if it persists longer than 10s, restart the game.
+    
+## Developers 🛠️
 
 - [Mahir Moodaley](https://github.com/MrMoodles123)
 - [Ibrahim Abdou](https://github.com/IbrahAbd)
