@@ -2,7 +2,6 @@
 # Fateor's Gambit
 
 <img src="https://github.com/IbrahAbd/Flappy-Bird-in-PyGame/blob/main/flappy-bird-assets-master/finalFG.png" width="1000" height = "500"/>
-
 <div align="center">
 A high-stakes 1v1 FPS Arena Card Battler where every round is unpredictable.  
 
@@ -10,8 +9,12 @@ Step into the fight across three distinct battlegrounds (Gambit Grounds, Gambit 
 
  ⚔️ Will you leave it to fate or take control with a gambit? ⚔️
  
- [Source files](https://drive.google.com/drive/folders/1PlO6uSis0Wpo8oFeZmvemRLxcDg413wU?usp=drive_link)
 </div>
+<p align="center">
+<img src="https://github.com/MrMoodles123/Fateors-Gambit/blob/main/Images/fg1.png" width="400" height = "250"/><img src="https://github.com/MrMoodles123/Fateors-Gambit/blob/main/Images/fg2.png" width="400" height = "250"/>
+<img src="https://github.com/MrMoodles123/Fateors-Gambit/blob/main/Images/fg3.png" width="400" height = "250"/><img src="https://github.com/MrMoodles123/Fateors-Gambit/blob/main/Images/fg4.png" width="400" height = "250"/>
+<img src="https://github.com/MrMoodles123/Fateors-Gambit/blob/main/Images/fg5.png" width="400" height = "250"/>
+</p>
 
 ## How To Run
 
@@ -97,4 +100,3 @@ These issues were resolved by making the game restart itself after finishing the
 - [Mahir Moodaley](https://github.com/MrMoodles123)
 - [Ibrahim Abdou](https://github.com/IbrahAbd)
 - [Kai Connock](https://github.com/kcurious)
-
