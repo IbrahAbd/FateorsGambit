@@ -27,7 +27,7 @@ Step into the fight across three distinct battlegrounds (Gambit Grounds, Gambit 
 
 ## Template Used
 
-The game was built off the free asset template: [Projectiles Advanced Multiplayer - Photon Fusion](https://assetstore.unity.com/packages/templates/systems/projectiles-advanced-multiplayer-photon-fusion-286072). The template uses Photon and Fusion 2 Multiplayer SDKs to setup basic multiplayer connections and logic for Unity. This template was editied and expanded to include our own round and game logic. 
+The game was built off the free asset template: [Projectiles Advanced Multiplayer - Photon Fusion](https://assetstore.unity.com/packages/templates/systems/projectiles-advanced-multiplayer-photon-fusion-286072). The template uses Photon and Fusion 2 Multiplayer SDKs to setup basic multiplayer connections and logic for Unity. This template was edited and expanded to include our own round and game logic. 
 
 The ranged weapons were provided by the template, with their damage numbers, ranges and attack rates being modified. 
 
